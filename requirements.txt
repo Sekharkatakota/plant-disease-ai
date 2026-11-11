@@ -1,0 +1,16 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+opencv-python-headless==4.10.0.84
+numpy<2
+pillow
+torch
+torchvision
+timm
+ultralytics
+streamlit
+requests
+deep-translator
+pytest
+httpx
+tensorflow>=2.16  # needed for the Keras backend; torch/timm needed for the ViT backend

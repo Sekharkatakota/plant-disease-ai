@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.py[cod]
+dataset/
+yolo_data/
+models/vit_plant.pt
+models/yolo_lesion.pt

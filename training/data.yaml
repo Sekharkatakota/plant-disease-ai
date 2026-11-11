@@ -1,0 +1,7 @@
+# TEMPLATE - voc_to_yolo.py overwrites this. If you use a Roboflow export, use the data.yaml it gives you.
+path: /content/yolo_data      # dataset root
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: leaf_disease             # replace with your classes

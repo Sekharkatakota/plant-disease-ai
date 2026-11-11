@@ -1,0 +1,776 @@
+{
+ "Tomato___Late_blight": {
+  "en": {
+   "summary": "Fungus-like disease (Phytophthora infestans) that spreads fast in cool, wet weather.",
+   "treatment": [
+    "Remove and destroy infected leaves and plants.",
+    "Spray a copper-based fungicide or mancozeb as per the label.",
+    "Avoid overhead irrigation; water at the base.",
+    "Increase plant spacing for airflow."
+   ]
+  },
+  "te": {
+   "summary": "చల్లని, తేమ వాతావరణంలో వేగంగా వ్యాపించే శిలీంధ్ర తరహా వ్యాధి (ఫైటోఫ్తోరా ఇన్ఫెస్టాన్స్).",
+   "treatment": [
+    "సోకిన ఆకులు, మొక్కలను తీసివేసి నాశనం చేయండి.",
+    "లేబుల్ సూచనల ప్రకారం కాపర్ ఆధారిత శిలీంధ్రనాశిని లేదా మాంకోజెబ్ పిచికారీ చేయండి.",
+    "పై నుంచి నీరు పోయకుండా మొక్క మొదట్లో నీరు పెట్టండి.",
+    "గాలి ప్రసరణ కోసం మొక్కల మధ్య దూరం పెంచండి."
+   ]
+  },
+  "hi": {
+   "summary": "ठंडे और नम मौसम में तेज़ी से फैलने वाली फफूंद जैसी बीमारी (फाइटोफ्थोरा इन्फेस्टैन्स)।",
+   "treatment": [
+    "संक्रमित पत्तियों और पौधों को हटाकर नष्ट करें।",
+    "लेबल के अनुसार कॉपर आधारित फफूंदनाशी या मैन्कोज़ेब का छिड़काव करें।",
+    "ऊपर से सिंचाई न करें, जड़ के पास पानी दें।",
+    "हवा के संचार के लिए पौधों के बीच दूरी बढ़ाएं।"
+   ]
+  }
+ },
+ "Tomato___healthy": {
+  "en": {
+   "summary": "The leaf looks healthy.",
+   "treatment": [
+    "No treatment needed.",
+    "Keep monitoring weekly and maintain balanced watering and nutrition."
+   ]
+  },
+  "te": {
+   "summary": "ఆకు ఆరోగ్యంగా కనిపిస్తోంది.",
+   "treatment": [
+    "చికిత్స అవసరం లేదు.",
+    "వారానికి ఒకసారి పరిశీలించండి, సమతుల్య నీరు, పోషణ కొనసాగించండి."
+   ]
+  },
+  "hi": {
+   "summary": "पत्ती स्वस्थ दिख रही है।",
+   "treatment": [
+    "उपचार की आवश्यकता नहीं है।",
+    "हर हफ्ते निगरानी करें और संतुलित सिंचाई व पोषण बनाए रखें।"
+   ]
+  }
+ },
+ "_generic": {
+  "en": {
+   "summary": "Disease detected. Treatment details for this class are not yet in the knowledge base.",
+   "treatment": [
+    "Isolate and remove badly affected leaves.",
+    "Avoid wetting foliage when watering.",
+    "Consult your local agriculture officer before using any pesticide or fungicide."
+   ]
+  },
+  "te": {
+   "summary": "వ్యాధి గుర్తించబడింది. ఈ రకానికి సంబంధించిన చికిత్స వివరాలు ఇంకా డేటాబేస్‌లో లేవు.",
+   "treatment": [
+    "బాగా దెబ్బతిన్న ఆకులను వేరు చేసి తొలగించండి.",
+    "నీరు పోసేటప్పుడు ఆకులు తడవకుండా చూడండి.",
+    "ఏదైనా పురుగుమందు లేదా శిలీంధ్రనాశిని వాడే ముందు స్థానిక వ్యవసాయ అధికారిని సంప్రదించండి."
+   ]
+  },
+  "hi": {
+   "summary": "बीमारी पाई गई। इस श्रेणी का उपचार विवरण अभी डेटाबेस में नहीं है।",
+   "treatment": [
+    "बुरी तरह प्रभावित पत्तियों को अलग कर हटाएं।",
+    "सिंचाई करते समय पत्तियों को गीला न करें।",
+    "कोई भी कीटनाशक या फफूंदनाशी इस्तेमाल करने से पहले स्थानीय कृषि अधिकारी से सलाह लें।"
+   ]
+  }
+ },
+ "Apple___Apple_scab": {
+  "en": {
+   "summary": "Fungal disease (Venturia inaequalis) causing olive-green to dark scabby spots on leaves and fruit.",
+   "treatment": [
+    "Rake and destroy fallen leaves in autumn.",
+    "Apply a fungicide recommended locally, starting at early leaf stage, as per the label.",
+    "Prune to open the canopy so leaves dry faster."
+   ]
+  },
+  "te": {
+   "summary": "వెంచురియా ఇనాక్వాలిస్ శిలీంధ్రం వల్ల వచ్చే వ్యాధి; ఆకులు, పండ్లపై ఆలివ్-ఆకుపచ్చ నుంచి ముదురు గజ్జి లాంటి మచ్చలు వస్తాయి.",
+   "treatment": [
+    "శరదృతువులో రాలిన ఆకులను పోగుచేసి నాశనం చేయండి.",
+    "ఆకులు వచ్చే తొలి దశ నుంచి, స్థానికంగా సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "కొమ్మలు కత్తిరించి గాలి, వెలుతురు లోపలికి వచ్చేలా చేయండి, ఆకులు త్వరగా ఆరతాయి."
+   ]
+  },
+  "hi": {
+   "summary": "वेंचुरिया इनएक्वालिस फफूंद से होने वाली बीमारी; पत्तियों और फलों पर जैतूनी-हरे से गहरे खुरदरे धब्बे बनते हैं।",
+   "treatment": [
+    "पतझड़ में गिरी पत्तियों को इकट्ठा करके नष्ट करें।",
+    "पत्तियां आने की शुरुआती अवस्था से, स्थानीय स्तर पर सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।",
+    "डालियों की छंटाई करें ताकि हवा और धूप अंदर आए और पत्तियां जल्दी सूखें।"
+   ]
+  }
+ },
+ "Apple___Black_rot": {
+  "en": {
+   "summary": "Fungal disease (Botryosphaeria obtusa) causing leaf spots, fruit rot and cankers on branches.",
+   "treatment": [
+    "Prune out cankers and dead wood; remove mummified fruit.",
+    "Apply a recommended fungicide as per the label.",
+    "Keep the orchard floor clean of infected debris."
+   ]
+  },
+  "te": {
+   "summary": "బొట్రియోస్ఫేరియా ఒబ్టూసా శిలీంధ్రం వల్ల ఆకులపై మచ్చలు, పండ్లు కుళ్ళిపోవడం, కొమ్మలపై పుండ్లు ఏర్పడతాయి.",
+   "treatment": [
+    "పుండ్లు పడిన, ఎండిన కొమ్మలను కత్తిరించి తీసివేయండి; ఎండిపోయిన పండ్లను తొలగించండి.",
+    "సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "తోటలో సోకిన ఆకులు, పండ్ల అవశేషాలు లేకుండా శుభ్రంగా ఉంచండి."
+   ]
+  },
+  "hi": {
+   "summary": "बोट्रियोस्फेरिया ऑब्टूसा फफूंद से पत्तियों पर धब्बे, फल सड़ना और डालियों पर घाव बनते हैं।",
+   "treatment": [
+    "घाव वाली और सूखी डालियां काटकर हटाएं; सूखे सिकुड़े फल हटा दें।",
+    "सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।",
+    "बाग में संक्रमित पत्तियों और फलों के अवशेष न रहने दें, सफाई रखें।"
+   ]
+  }
+ },
+ "Apple___Cedar_apple_rust": {
+  "en": {
+   "summary": "Fungal disease needing both apple and juniper/cedar hosts; causes bright yellow-orange leaf spots.",
+   "treatment": [
+    "Remove nearby juniper/cedar trees if practical.",
+    "Apply a recommended fungicide from pink bud stage as per the label.",
+    "Plant rust-resistant apple varieties."
+   ]
+  },
+  "te": {
+   "summary": "ఈ శిలీంధ్రానికి ఆపిల్‌తో పాటు జూనిపర్/సెడార్ చెట్లు కూడా కావాలి; ఆకులపై ప్రకాశవంతమైన పసుపు-నారింజ మచ్చలు వస్తాయి.",
+   "treatment": [
+    "వీలైతే దగ్గరలోని జూనిపర్/సెడార్ చెట్లను తొలగించండి.",
+    "పింక్ బడ్ దశ నుంచి సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "తుప్పు తెగులును తట్టుకునే ఆపిల్ రకాలను నాటండి."
+   ]
+  },
+  "hi": {
+   "summary": "इस फफूंद को सेब के साथ जुनिपर/सीडर पेड़ भी चाहिए; पत्तियों पर चमकीले पीले-नारंगी धब्बे बनते हैं।",
+   "treatment": [
+    "संभव हो तो पास के जुनिपर/सीडर पेड़ हटा दें।",
+    "पिंक बड अवस्था से सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।",
+    "रस्ट प्रतिरोधी सेब की किस्में लगाएं।"
+   ]
+  }
+ },
+ "Cherry___Powdery_mildew": {
+  "en": {
+   "summary": "Fungal disease producing white powdery growth on leaves and shoots.",
+   "treatment": [
+    "Prune to improve airflow and sunlight.",
+    "Apply sulfur or another recommended fungicide as per the label.",
+    "Avoid excess nitrogen fertilizer, which promotes soft growth."
+   ]
+  },
+  "te": {
+   "summary": "ఆకులు, కొమ్మలపై తెల్లని పొడి లాంటి పూత ఏర్పడే శిలీంధ్ర వ్యాధి.",
+   "treatment": [
+    "కొమ్మలు కత్తిరించి గాలి, వెలుతురు పెంచండి.",
+    "గంధకం (సల్ఫర్) లేదా సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "నత్రజని ఎరువు ఎక్కువగా వేయకండి, అది మెత్తని కొత్త చిగుళ్లను పెంచుతుంది."
+   ]
+  },
+  "hi": {
+   "summary": "पत्तियों और टहनियों पर सफेद चूर्ण जैसी परत बनाने वाली फफूंद की बीमारी।",
+   "treatment": [
+    "छंटाई करके हवा और धूप बढ़ाएं।",
+    "सल्फर या सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।",
+    "नाइट्रोजन खाद ज़्यादा न दें, इससे कोमल नई बढ़वार होती है।"
+   ]
+  }
+ },
+ "Corn___Cercospora_leaf_spot Gray_leaf_spot": {
+  "en": {
+   "summary": "Fungal disease causing long rectangular grey-tan lesions, favored by warm humid weather.",
+   "treatment": [
+    "Rotate crops and bury or manage infected residue.",
+    "Choose resistant hybrids.",
+    "If severe before tasseling, use a recommended fungicide as per the label."
+   ]
+  },
+  "te": {
+   "summary": "వెచ్చని, తేమ వాతావరణంలో వచ్చే శిలీంధ్ర వ్యాధి; ఆకులపై పొడవైన దీర్ఘచతురస్రాకార బూడిద-గోధుమ మచ్చలు ఏర్పడతాయి.",
+   "treatment": [
+    "పంట మార్పిడి చేయండి; సోకిన పంట అవశేషాలను భూమిలో కలియదున్నండి లేదా తొలగించండి.",
+    "తట్టుకునే హైబ్రిడ్ రకాలను ఎంచుకోండి.",
+    "పుష్పించే ముందు తీవ్రంగా ఉంటే, సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం వాడండి."
+   ]
+  },
+  "hi": {
+   "summary": "गर्म और नम मौसम में फैलने वाली फफूंद की बीमारी; पत्तियों पर लंबे आयताकार भूरे-स्लेटी धब्बे बनते हैं।",
+   "treatment": [
+    "फसल चक्र अपनाएं; संक्रमित फसल अवशेषों को जमीन में दबाएं या हटाएं।",
+    "प्रतिरोधी हाइब्रिड किस्में चुनें।",
+    "मंजरी आने से पहले अधिक प्रकोप हो तो सुझाई गई फफूंदनाशी का लेबल के अनुसार उपयोग करें।"
+   ]
+  }
+ },
+ "Corn___Common_rust": {
+  "en": {
+   "summary": "Fungal disease producing small reddish-brown pustules on both leaf surfaces.",
+   "treatment": [
+    "Plant resistant hybrids.",
+    "Scout fields early; apply a recommended fungicide only if infection is heavy and early.",
+    "Avoid late sowing, which increases risk."
+   ]
+  },
+  "te": {
+   "summary": "ఆకుల రెండు వైపులా చిన్న ఎరుపు-గోధుమ రంగు పొక్కులు ఏర్పడే శిలీంధ్ర వ్యాధి.",
+   "treatment": [
+    "తట్టుకునే హైబ్రిడ్ రకాలను నాటండి.",
+    "పొలాన్ని తొలి దశలోనే పరిశీలించండి; ఇన్ఫెక్షన్ ముందే ఎక్కువగా ఉంటేనే సిఫారసు చేసిన శిలీంధ్రనాశినిని వాడండి.",
+    "ఆలస్యంగా విత్తడం మానండి, దానివల్ల ప్రమాదం పెరుగుతుంది."
+   ]
+  },
+  "hi": {
+   "summary": "पत्तियों की दोनों सतहों पर छोटे लाल-भूरे दाने (पुस्टूल) बनाने वाली फफूंद की बीमारी।",
+   "treatment": [
+    "प्रतिरोधी हाइब्रिड किस्में लगाएं।",
+    "खेत की शुरुआत में ही निगरानी करें; संक्रमण जल्दी और ज़्यादा हो तभी सुझाई गई फफूंदनाशी का उपयोग करें।",
+    "देर से बुवाई न करें, इससे खतरा बढ़ता है।"
+   ]
+  }
+ },
+ "Corn___Northern_Leaf_Blight": {
+  "en": {
+   "summary": "Fungal disease causing long cigar-shaped grey-green lesions on leaves.",
+   "treatment": [
+    "Use resistant hybrids and rotate crops.",
+    "Manage or bury crop residue after harvest.",
+    "Apply a recommended fungicide as per the label if disease appears early."
+   ]
+  },
+  "te": {
+   "summary": "ఆకులపై పొడవైన, సిగార్ ఆకారపు బూడిద-ఆకుపచ్చ మచ్చలు ఏర్పడే శిలీంధ్ర వ్యాధి.",
+   "treatment": [
+    "తట్టుకునే హైబ్రిడ్ రకాలు వాడండి, పంట మార్పిడి చేయండి.",
+    "కోత తర్వాత పంట అవశేషాలను భూమిలో కలియదున్నండి లేదా తొలగించండి.",
+    "వ్యాధి తొలి దశలోనే కనిపిస్తే సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి."
+   ]
+  },
+  "hi": {
+   "summary": "पत्तियों पर लंबे, सिगार के आकार के भूरे-हरे धब्बे बनाने वाली फफूंद की बीमारी।",
+   "treatment": [
+    "प्रतिरोधी हाइब्रिड किस्में लगाएं और फसल चक्र अपनाएं।",
+    "कटाई के बाद फसल अवशेषों को जमीन में दबाएं या हटाएं।",
+    "बीमारी शुरू में दिखे तो सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।"
+   ]
+  }
+ },
+ "Grape___Black_rot": {
+  "en": {
+   "summary": "Fungal disease causing brown leaf spots and shriveled black mummified berries.",
+   "treatment": [
+    "Remove mummified berries and infected canes.",
+    "Improve canopy airflow by pruning and training.",
+    "Apply a recommended fungicide from early shoot growth as per the label."
+   ]
+  },
+  "te": {
+   "summary": "ఆకులపై గోధుమ మచ్చలు, ద్రాక్ష కాయలు ముడుచుకుపోయి నల్లగా ఎండిపోయేలా చేసే శిలీంధ్ర వ్యాధి.",
+   "treatment": [
+    "ఎండిపోయిన కాయలను, సోకిన తీగలను తొలగించండి.",
+    "కత్తిరింపు, తీగ నడిపింపుతో పందిరిలో గాలి ప్రసరణ పెంచండి.",
+    "చిగురు వచ్చే దశ నుంచి సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి."
+   ]
+  },
+  "hi": {
+   "summary": "पत्तियों पर भूरे धब्बे और अंगूर के दाने सिकुड़कर काले सूख जाने वाली फफूंद की बीमारी।",
+   "treatment": [
+    "सूखे सिकुड़े दाने और संक्रमित बेलें हटाएं।",
+    "छंटाई और बेल को सही दिशा देकर छत्र में हवा का संचार बढ़ाएं।",
+    "कल्ले निकलने की शुरुआत से सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।"
+   ]
+  }
+ },
+ "Grape___Esca_(Black_Measles)": {
+  "en": {
+   "summary": "Wood-infecting fungal disease causing tiger-stripe leaves and spotted berries; no cure.",
+   "treatment": [
+    "Prune out infected wood in dry weather and disinfect tools.",
+    "Protect large pruning wounds.",
+    "Remove and replace severely affected vines."
+   ]
+  },
+  "te": {
+   "summary": "కర్ర భాగంలో సోకే శిలీంధ్ర వ్యాధి; ఆకులపై పులి చారల లాంటి మచ్చలు, కాయలపై మచ్చలు వస్తాయి; నివారణ లేదు.",
+   "treatment": [
+    "పొడి వాతావరణంలో సోకిన కొమ్మలను కత్తిరించి, పనిముట్లను క్రిమిసంహారకం చేయండి.",
+    "పెద్ద కత్తిరింపు గాయాలకు రక్షణ పూత వేయండి.",
+    "తీవ్రంగా సోకిన తీగలను తొలగించి కొత్తవి నాటండి."
+   ]
+  },
+  "hi": {
+   "summary": "लकड़ी में फैलने वाली फफूंद की बीमारी; पत्तियों पर बाघ की धारियों जैसे निशान और दानों पर धब्बे बनते हैं; इसका इलाज नहीं है।",
+   "treatment": [
+    "सूखे मौसम में संक्रमित लकड़ी काटें और औज़ारों को कीटाणुरहित करें।",
+    "बड़े कटाई वाले घावों पर सुरक्षात्मक लेप लगाएं।",
+    "बुरी तरह प्रभावित बेलें हटाकर नई लगाएं।"
+   ]
+  }
+ },
+ "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+  "en": {
+   "summary": "Fungal leaf spot disease causing dark irregular spots and early leaf drop.",
+   "treatment": [
+    "Remove and destroy infected leaves.",
+    "Open the canopy for airflow.",
+    "Apply a copper-based or recommended fungicide as per the label."
+   ]
+  },
+  "te": {
+   "summary": "ముదురు, అసమాన మచ్చలు ఏర్పడి ఆకులు త్వరగా రాలిపోయేలా చేసే శిలీంధ్ర తెగులు.",
+   "treatment": [
+    "సోకిన ఆకులను తీసివేసి నాశనం చేయండి.",
+    "పందిరిలో గాలి ప్రసరణ పెంచండి.",
+    "రాగి ఆధారిత లేదా సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి."
+   ]
+  },
+  "hi": {
+   "summary": "गहरे, अनियमित धब्बे बनाकर पत्तियों को जल्दी गिराने वाली फफूंद की बीमारी।",
+   "treatment": [
+    "संक्रमित पत्तियां हटाकर नष्ट करें।",
+    "छत्र में हवा का संचार बढ़ाएं।",
+    "तांबा आधारित या सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।"
+   ]
+  }
+ },
+ "Orange___Haunglongbing_(Citrus_greening)": {
+  "en": {
+   "summary": "Serious bacterial disease spread by the Asian citrus psyllid; causes blotchy yellow leaves and bitter misshapen fruit. No cure.",
+   "treatment": [
+    "Remove infected trees to stop spread.",
+    "Control psyllids with recommended insecticides and monitoring.",
+    "Plant only certified disease-free nursery stock and report to local agriculture authorities."
+   ]
+  },
+  "te": {
+   "summary": "ఆసియన్ సిట్రస్ సైల్లిడ్ ద్వారా వ్యాపించే తీవ్రమైన బ్యాక్టీరియా వ్యాధి; ఆకులు మచ్చలతో పసుపు రంగులోకి మారి, కాయలు చేదుగా, వంకరగా అవుతాయి. నివారణ లేదు.",
+   "treatment": [
+    "వ్యాప్తి ఆపడానికి సోకిన చెట్లను తొలగించండి.",
+    "సైల్లిడ్ పురుగులను పర్యవేక్షిస్తూ, సిఫారసు చేసిన పురుగుమందులతో నియంత్రించండి.",
+    "ధృవీకరించిన వ్యాధి రహిత నర్సరీ మొక్కలనే నాటండి, స్థానిక వ్యవసాయ అధికారులకు తెలియజేయండి."
+   ]
+  },
+  "hi": {
+   "summary": "एशियन सिट्रस साइलिड कीट से फैलने वाली गंभीर जीवाणु बीमारी; पत्तियां धब्बेदार पीली और फल कड़वे व टेढ़े-मेढ़े हो जाते हैं। इसका इलाज नहीं है।",
+   "treatment": [
+    "फैलाव रोकने के लिए संक्रमित पेड़ हटा दें।",
+    "साइलिड कीट पर निगरानी रखें और सुझाए गए कीटनाशकों से नियंत्रण करें।",
+    "केवल प्रमाणित रोगमुक्त नर्सरी पौधे लगाएं और स्थानीय कृषि अधिकारियों को सूचित करें।"
+   ]
+  }
+ },
+ "Peach___Bacterial_spot": {
+  "en": {
+   "summary": "Bacterial disease causing small dark leaf spots, shot-holes and fruit lesions.",
+   "treatment": [
+    "Use resistant varieties where available.",
+    "Apply copper-based sprays as per the label.",
+    "Avoid overhead irrigation and over-fertilizing with nitrogen."
+   ]
+  },
+  "te": {
+   "summary": "ఆకులపై చిన్న ముదురు మచ్చలు, రంధ్రాలు, పండ్లపై పుండ్లు కలిగించే బ్యాక్టీరియా వ్యాధి.",
+   "treatment": [
+    "అందుబాటులో ఉంటే తట్టుకునే రకాలను వాడండి.",
+    "రాగి ఆధారిత మందులను లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "పై నుంచి నీరు పోయకండి, నత్రజని ఎరువు మితంగా వేయండి."
+   ]
+  },
+  "hi": {
+   "summary": "पत्तियों पर छोटे गहरे धब्बे, छेद और फलों पर घाव बनाने वाली जीवाणु बीमारी।",
+   "treatment": [
+    "उपलब्ध हो तो प्रतिरोधी किस्में लगाएं।",
+    "तांबा आधारित दवा का लेबल के अनुसार छिड़काव करें।",
+    "ऊपर से सिंचाई न करें और नाइट्रोजन खाद सीमित मात्रा में दें।"
+   ]
+  }
+ },
+ "Pepper,_bell___Bacterial_spot": {
+  "en": {
+   "summary": "Bacterial disease causing water-soaked, dark scabby spots on leaves and fruit.",
+   "treatment": [
+    "Use certified disease-free seed and rotate crops.",
+    "Apply copper-based sprays as per the label.",
+    "Do not handle plants when foliage is wet."
+   ]
+  },
+  "te": {
+   "summary": "ఆకులు, కాయలపై నీటిలో తడిసినట్లు ఉండే ముదురు గజ్జి మచ్చలు కలిగించే బ్యాక్టీరియా వ్యాధి.",
+   "treatment": [
+    "ధృవీకరించిన వ్యాధి రహిత విత్తనాలు వాడండి, పంట మార్పిడి చేయండి.",
+    "రాగి ఆధారిత మందులను లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "ఆకులు తడిగా ఉన్నప్పుడు మొక్కలను ముట్టుకోకండి."
+   ]
+  },
+  "hi": {
+   "summary": "पत्तियों और फलों पर पानी से भीगे, गहरे खुरदरे धब्बे बनाने वाली जीवाणु बीमारी।",
+   "treatment": [
+    "प्रमाणित रोगमुक्त बीज इस्तेमाल करें और फसल चक्र अपनाएं।",
+    "तांबा आधारित दवा का लेबल के अनुसार छिड़काव करें।",
+    "पत्तियां गीली हों तो पौधों को न छुएं।"
+   ]
+  }
+ },
+ "Potato___Early_blight": {
+  "en": {
+   "summary": "Fungal disease (Alternaria solani) causing dark concentric-ring spots on older leaves.",
+   "treatment": [
+    "Remove infected lower leaves.",
+    "Apply a recommended fungicide such as mancozeb or chlorothalonil as per the label.",
+    "Rotate crops and keep plants well fed and watered."
+   ]
+  },
+  "te": {
+   "summary": "ఆల్టర్నేరియా సోలాని శిలీంధ్రం వల్ల పాత ఆకులపై వలయాల్లాంటి ముదురు మచ్చలు వస్తాయి.",
+   "treatment": [
+    "సోకిన కింది ఆకులను తీసివేయండి.",
+    "మాంకోజెబ్ లేదా క్లోరోథాలోనిల్ వంటి సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "పంట మార్పిడి చేయండి, మొక్కలకు తగినంత ఎరువు, నీరు ఇవ్వండి."
+   ]
+  },
+  "hi": {
+   "summary": "अल्टरनेरिया सोलानी फफूंद से पुरानी पत्तियों पर छल्लेदार गहरे धब्बे बनते हैं।",
+   "treatment": [
+    "संक्रमित निचली पत्तियां हटाएं।",
+    "मैन्कोज़ेब या क्लोरोथैलोनिल जैसी सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।",
+    "फसल चक्र अपनाएं और पौधों को पर्याप्त खाद-पानी दें।"
+   ]
+  }
+ },
+ "Potato___Late_blight": {
+  "en": {
+   "summary": "Fast-spreading disease (Phytophthora infestans) causing water-soaked dark patches and white mold under leaves in cool wet weather.",
+   "treatment": [
+    "Destroy infected plants and volunteer potatoes immediately.",
+    "Apply a recommended protective fungicide as per the label.",
+    "Avoid overhead irrigation, hill up soil, and do not store infected tubers."
+   ]
+  },
+  "te": {
+   "summary": "ఫైటోఫ్తోరా ఇన్ఫెస్టాన్స్ వల్ల చల్లని, తేమ వాతావరణంలో వేగంగా వ్యాపించే వ్యాధి; ఆకులపై నీటిలో తడిసిన ముదురు మచ్చలు, ఆకుల కింద తెల్లని బూజు వస్తాయి.",
+   "treatment": [
+    "సోకిన మొక్కలను, వాటంతట మొలిచిన బంగాళాదుంప మొక్కలను వెంటనే నాశనం చేయండి.",
+    "సిఫారసు చేసిన నివారణ శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "పై నుంచి నీరు పోయకండి, మొక్క మొదట్లో మట్టి ఎగదోయండి, సోకిన దుంపలను నిల్వ చేయకండి."
+   ]
+  },
+  "hi": {
+   "summary": "फाइटोफ्थोरा इन्फेस्टैन्स से ठंडे, नम मौसम में तेज़ी से फैलने वाली बीमारी; पत्तियों पर पानी से भीगे गहरे धब्बे और नीचे सफेद फफूंद बनती है।",
+   "treatment": [
+    "संक्रमित पौधों और अपने आप उगे आलू के पौधों को तुरंत नष्ट करें।",
+    "सुझाई गई बचाव वाली फफूंदनाशी का लेबल के अनुसार छिड़काव करें।",
+    "ऊपर से सिंचाई न करें, पौधों पर मिट्टी चढ़ाएं और संक्रमित कंद भंडारित न करें।"
+   ]
+  }
+ },
+ "Squash___Powdery_mildew": {
+  "en": {
+   "summary": "Fungal disease producing white powdery patches on leaves.",
+   "treatment": [
+    "Apply sulfur, neem oil or a recommended fungicide as per the label.",
+    "Improve spacing and airflow.",
+    "Water at the base, not over the leaves."
+   ]
+  },
+  "te": {
+   "summary": "ఆకులపై తెల్లని పొడి మచ్చలు ఏర్పడే శిలీంధ్ర వ్యాధి.",
+   "treatment": [
+    "గంధకం, వేపనూనె లేదా సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "మొక్కల మధ్య దూరం, గాలి ప్రసరణ పెంచండి.",
+    "ఆకులపై కాకుండా మొక్క మొదట్లో నీరు పెట్టండి."
+   ]
+  },
+  "hi": {
+   "summary": "पत्तियों पर सफेद चूर्ण जैसे धब्बे बनाने वाली फफूंद की बीमारी।",
+   "treatment": [
+    "सल्फर, नीम का तेल या सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।",
+    "पौधों के बीच दूरी और हवा का संचार बढ़ाएं।",
+    "पत्तियों पर नहीं, जड़ के पास पानी दें।"
+   ]
+  }
+ },
+ "Strawberry___Leaf_scorch": {
+  "en": {
+   "summary": "Fungal disease causing purple spots that merge into scorched-looking leaves.",
+   "treatment": [
+    "Remove and destroy infected leaves after harvest.",
+    "Avoid overhead irrigation; space plants for airflow.",
+    "Apply a recommended fungicide as per the label."
+   ]
+  },
+  "te": {
+   "summary": "ఊదా రంగు మచ్చలు కలిసిపోయి ఆకులు కాలినట్లు కనిపించేలా చేసే శిలీంధ్ర వ్యాధి.",
+   "treatment": [
+    "కోత తర్వాత సోకిన ఆకులను తీసివేసి నాశనం చేయండి.",
+    "పై నుంచి నీరు పోయకండి; గాలి ప్రసరణ కోసం మొక్కల మధ్య దూరం ఉంచండి.",
+    "సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి."
+   ]
+  },
+  "hi": {
+   "summary": "बैंगनी धब्बे आपस में मिलकर पत्तियों को झुलसा हुआ दिखाने वाली फफूंद की बीमारी।",
+   "treatment": [
+    "कटाई के बाद संक्रमित पत्तियां हटाकर नष्ट करें।",
+    "ऊपर से सिंचाई न करें; हवा के लिए पौधों के बीच दूरी रखें।",
+    "सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।"
+   ]
+  }
+ },
+ "Tomato___Bacterial_spot": {
+  "en": {
+   "summary": "Bacterial disease causing small dark greasy spots on leaves and rough spots on fruit.",
+   "treatment": [
+    "Use certified disease-free seed and rotate crops.",
+    "Apply copper-based sprays as per the label.",
+    "Avoid working in the field when plants are wet."
+   ]
+  },
+  "te": {
+   "summary": "ఆకులపై చిన్న ముదురు జిడ్డు మచ్చలు, కాయలపై గరుకు మచ్చలు కలిగించే బ్యాక్టీరియా వ్యాధి.",
+   "treatment": [
+    "ధృవీకరించిన వ్యాధి రహిత విత్తనాలు వాడండి, పంట మార్పిడి చేయండి.",
+    "రాగి ఆధారిత మందులను లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "మొక్కలు తడిగా ఉన్నప్పుడు పొలంలో పని చేయకండి."
+   ]
+  },
+  "hi": {
+   "summary": "पत्तियों पर छोटे गहरे चिकने धब्बे और फलों पर खुरदरे धब्बे बनाने वाली जीवाणु बीमारी।",
+   "treatment": [
+    "प्रमाणित रोगमुक्त बीज इस्तेमाल करें और फसल चक्र अपनाएं।",
+    "तांबा आधारित दवा का लेबल के अनुसार छिड़काव करें।",
+    "पौधे गीले हों तो खेत में काम न करें।"
+   ]
+  }
+ },
+ "Tomato___Early_blight": {
+  "en": {
+   "summary": "Fungal disease (Alternaria solani) causing brown spots with concentric rings on lower leaves.",
+   "treatment": [
+    "Remove infected lower leaves and mulch the soil.",
+    "Apply a recommended fungicide as per the label.",
+    "Rotate crops and water at the base."
+   ]
+  },
+  "te": {
+   "summary": "ఆల్టర్నేరియా సోలాని శిలీంధ్రం వల్ల కింది ఆకులపై వలయాలతో గోధుమ మచ్చలు వస్తాయి.",
+   "treatment": [
+    "సోకిన కింది ఆకులను తీసివేసి, మట్టిపై మల్చింగ్ వేయండి.",
+    "సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "పంట మార్పిడి చేయండి, మొక్క మొదట్లో నీరు పెట్టండి."
+   ]
+  },
+  "hi": {
+   "summary": "अल्टरनेरिया सोलानी फफूंद से निचली पत्तियों पर छल्लेदार भूरे धब्बे बनते हैं।",
+   "treatment": [
+    "संक्रमित निचली पत्तियां हटाएं और मिट्टी पर मल्चिंग करें।",
+    "सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।",
+    "फसल चक्र अपनाएं और जड़ के पास पानी दें।"
+   ]
+  }
+ },
+ "Tomato___Leaf_Mold": {
+  "en": {
+   "summary": "Fungal disease causing yellow patches on top and olive-grey mold under leaves in humid conditions.",
+   "treatment": [
+    "Reduce humidity and increase ventilation.",
+    "Remove infected leaves.",
+    "Apply a recommended fungicide as per the label."
+   ]
+  },
+  "te": {
+   "summary": "తేమ వాతావరణంలో ఆకుల పైన పసుపు మచ్చలు, కింద ఆలివ్-బూడిద రంగు బూజు వచ్చే శిలీంధ్ర వ్యాధి.",
+   "treatment": [
+    "తేమ తగ్గించండి, గాలి ప్రసరణ పెంచండి.",
+    "సోకిన ఆకులను తీసివేయండి.",
+    "సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి."
+   ]
+  },
+  "hi": {
+   "summary": "नम परिस्थितियों में पत्तियों के ऊपर पीले धब्बे और नीचे जैतूनी-स्लेटी फफूंद बनाने वाली बीमारी।",
+   "treatment": [
+    "नमी कम करें और हवा का संचार बढ़ाएं।",
+    "संक्रमित पत्तियां हटाएं।",
+    "सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।"
+   ]
+  }
+ },
+ "Tomato___Septoria_leaf_spot": {
+  "en": {
+   "summary": "Fungal disease causing many small round spots with dark borders and grey centers.",
+   "treatment": [
+    "Remove infected lower leaves and mulch the soil.",
+    "Apply a recommended fungicide as per the label.",
+    "Rotate crops and avoid overhead watering."
+   ]
+  },
+  "te": {
+   "summary": "ముదురు అంచులు, బూడిద రంగు మధ్యభాగంతో అనేక చిన్న గుండ్రని మచ్చలు కలిగించే శిలీంధ్ర వ్యాధి.",
+   "treatment": [
+    "సోకిన కింది ఆకులను తీసివేసి, మట్టిపై మల్చింగ్ వేయండి.",
+    "సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి.",
+    "పంట మార్పిడి చేయండి, పై నుంచి నీరు పోయకండి."
+   ]
+  },
+  "hi": {
+   "summary": "गहरे किनारे और स्लेटी केंद्र वाले कई छोटे गोल धब्बे बनाने वाली फफूंद की बीमारी।",
+   "treatment": [
+    "संक्रमित निचली पत्तियां हटाएं और मिट्टी पर मल्चिंग करें।",
+    "सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।",
+    "फसल चक्र अपनाएं और ऊपर से सिंचाई न करें।"
+   ]
+  }
+ },
+ "Tomato___Spider_mites Two-spotted_spider_mite": {
+  "en": {
+   "summary": "Tiny sap-sucking mites causing speckled yellowing leaves and fine webbing, worse in hot dry weather.",
+   "treatment": [
+    "Spray plants with strong water jets, especially leaf undersides.",
+    "Use neem oil or insecticidal soap; use a recommended miticide only if needed, as per the label.",
+    "Reduce dust and drought stress."
+   ]
+  },
+  "te": {
+   "summary": "రసం పీల్చే సూక్ష్మ నల్లులు; ఆకులపై చుక్కల్లా పసుపు రంగు, సన్నని సాలెగూడు ఏర్పడతాయి; వేడి, పొడి వాతావరణంలో ఎక్కువ.",
+   "treatment": [
+    "ఆకుల కింది భాగం తడిచేలా బలమైన నీటి ధారతో మొక్కలను కడగండి.",
+    "వేపనూనె లేదా క్రిమిసంహారక సబ్బు వాడండి; అవసరమైతేనే సిఫారసు చేసిన నల్లి మందును లేబుల్ ప్రకారం వాడండి.",
+    "దుమ్ము, నీటి ఒత్తిడి తగ్గించండి."
+   ]
+  },
+  "hi": {
+   "summary": "रस चूसने वाले सूक्ष्म माइट; पत्तियों पर चितकबरा पीलापन और बारीक जाला बनता है; गर्म, सूखे मौसम में ज़्यादा।",
+   "treatment": [
+    "पत्तियों के निचले हिस्से तक पहुंचे, ऐसी तेज़ पानी की धार से पौधे धोएं।",
+    "नीम का तेल या कीटनाशक साबुन इस्तेमाल करें; ज़रूरत हो तभी सुझाई गई माइटनाशी का लेबल के अनुसार उपयोग करें।",
+    "धूल और पानी की कमी का तनाव कम करें।"
+   ]
+  }
+ },
+ "Tomato___Target_Spot": {
+  "en": {
+   "summary": "Fungal disease causing brown spots with target-like rings on leaves and fruit.",
+   "treatment": [
+    "Remove infected leaves and crop debris.",
+    "Improve airflow and avoid overhead irrigation.",
+    "Apply a recommended fungicide as per the label."
+   ]
+  },
+  "te": {
+   "summary": "ఆకులు, కాయలపై లక్ష్యం గుర్తు లాంటి వలయాలతో గోధుమ మచ్చలు కలిగించే శిలీంధ్ర వ్యాధి.",
+   "treatment": [
+    "సోకిన ఆకులను, పంట అవశేషాలను తొలగించండి.",
+    "గాలి ప్రసరణ పెంచండి, పై నుంచి నీరు పోయకండి.",
+    "సిఫారసు చేసిన శిలీంధ్రనాశినిని లేబుల్ ప్రకారం పిచికారీ చేయండి."
+   ]
+  },
+  "hi": {
+   "summary": "पत्तियों और फलों पर निशाने जैसे छल्लों वाले भूरे धब्बे बनाने वाली फफूंद की बीमारी।",
+   "treatment": [
+    "संक्रमित पत्तियां और फसल अवशेष हटाएं।",
+    "हवा का संचार बढ़ाएं और ऊपर से सिंचाई न करें।",
+    "सुझाई गई फफूंदनाशी का लेबल के अनुसार छिड़काव करें।"
+   ]
+  }
+ },
+ "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+  "en": {
+   "summary": "Virus spread by whiteflies causing curled, yellow, stunted leaves. No cure.",
+   "treatment": [
+    "Remove and destroy infected plants.",
+    "Control whiteflies with yellow sticky traps, neem, insect-proof nets or recommended insecticides.",
+    "Plant resistant varieties."
+   ]
+  },
+  "te": {
+   "summary": "తెల్ల ఈగల ద్వారా వ్యాపించే వైరస్; ఆకులు ముడుచుకుని, పసుపు రంగులోకి మారి, మొక్క ఎదుగుదల తగ్గుతుంది. నివారణ లేదు.",
+   "treatment": [
+    "సోకిన మొక్కలను తీసివేసి నాశనం చేయండి.",
+    "పసుపు జిగురు ఉచ్చులు, వేపనూనె, కీటక నిరోధక వలలు లేదా సిఫారసు చేసిన పురుగుమందులతో తెల్ల ఈగలను నియంత్రించండి.",
+    "తట్టుకునే రకాలను నాటండి."
+   ]
+  },
+  "hi": {
+   "summary": "सफेद मक्खी से फैलने वाला विषाणु; पत्तियां मुड़ जाती हैं, पीली पड़ती हैं और पौधे की बढ़वार रुक जाती है। इसका इलाज नहीं है।",
+   "treatment": [
+    "संक्रमित पौधे उखाड़कर नष्ट करें।",
+    "पीले चिपचिपे जाल, नीम, कीट-रोधी जाली या सुझाए गए कीटनाशकों से सफेद मक्खी नियंत्रित करें।",
+    "प्रतिरोधी किस्में लगाएं।"
+   ]
+  }
+ },
+ "Tomato___Tomato_mosaic_virus": {
+  "en": {
+   "summary": "Virus causing mottled light and dark green leaves and distorted growth. No cure.",
+   "treatment": [
+    "Remove and destroy infected plants.",
+    "Wash hands and disinfect tools between plants.",
+    "Use certified seed and resistant varieties."
+   ]
+  },
+  "te": {
+   "summary": "ఆకులపై లేత, ముదురు ఆకుపచ్చ మచ్చలు, వంకర ఎదుగుదల కలిగించే వైరస్. నివారణ లేదు.",
+   "treatment": [
+    "సోకిన మొక్కలను తీసివేసి నాశనం చేయండి.",
+    "ఒక మొక్క నుంచి మరో మొక్కకు వెళ్లే ముందు చేతులు కడుక్కోండి, పనిముట్లను క్రిమిసంహారకం చేయండి.",
+    "ధృవీకరించిన విత్తనాలు, తట్టుకునే రకాలు వాడండి."
+   ]
+  },
+  "hi": {
+   "summary": "पत्तियों पर हल्के-गहरे हरे चितकबरे निशान और टेढ़ी-मेढ़ी बढ़वार पैदा करने वाला विषाणु। इसका इलाज नहीं है।",
+   "treatment": [
+    "संक्रमित पौधे उखाड़कर नष्ट करें।",
+    "एक पौधे से दूसरे पर जाने से पहले हाथ धोएं और औज़ार कीटाणुरहित करें।",
+    "प्रमाणित बीज और प्रतिरोधी किस्में इस्तेमाल करें।"
+   ]
+  }
+ },
+ "_healthy": {
+  "en": {
+   "summary": "The leaf looks healthy.",
+   "treatment": [
+    "No treatment needed.",
+    "Keep monitoring weekly and maintain balanced watering and nutrition."
+   ]
+  },
+  "te": {
+   "summary": "ఆకు ఆరోగ్యంగా కనిపిస్తోంది.",
+   "treatment": [
+    "చికిత్స అవసరం లేదు.",
+    "వారానికి ఒకసారి పరిశీలించండి, సమతుల్య నీరు, పోషణ కొనసాగించండి."
+   ]
+  },
+  "hi": {
+   "summary": "पत्ती स्वस्थ दिख रही है।",
+   "treatment": [
+    "उपचार की आवश्यकता नहीं है।",
+    "हर हफ्ते निगरानी करें और संतुलित सिंचाई व पोषण बनाए रखें।"
+   ]
+  }
+ },
+ "_background": {
+  "en": {
+   "summary": "No leaf detected in the image.",
+   "treatment": [
+    "Take a close-up photo of a single leaf against a plain background.",
+    "Use good daylight and keep the leaf in focus."
+   ]
+  },
+  "te": {
+   "summary": "చిత్రంలో ఆకు కనిపించలేదు.",
+   "treatment": [
+    "సాదా బ్యాక్‌గ్రౌండ్‌లో ఒకే ఆకు దగ్గరి ఫోటో తీయండి.",
+    "మంచి పగటి వెలుతురులో, ఆకు స్పష్టంగా కనిపించేలా తీయండి."
+   ]
+  },
+  "hi": {
+   "summary": "तस्वीर में कोई पत्ती नहीं मिली।",
+   "treatment": [
+    "सादे बैकग्राउंड पर एक पत्ती की नज़दीकी फोटो लें।",
+    "अच्छी दिन की रोशनी में, पत्ती फोकस में रखकर फोटो लें।"
+   ]
+  }
+ }
+}
